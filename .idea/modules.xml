@@ -4,6 +4,8 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/SpringMVC.iml" filepath="$PROJECT_DIR$/SpringMVC.iml" />
       <module fileurl="file://$PROJECT_DIR$/SpringMVC_01/SpringMVC_01.iml" filepath="$PROJECT_DIR$/SpringMVC_01/SpringMVC_01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SpringMVC_02/SpringMVC_02.iml" filepath="$PROJECT_DIR$/SpringMVC_02/SpringMVC_02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/generatorSqlmapCustom/generatorSqlmapCustom.iml" filepath="$PROJECT_DIR$/generatorSqlmapCustom/generatorSqlmapCustom.iml" />
     </modules>
   </component>
 </project>
